@@ -1,6 +1,8 @@
 # unwxnted/weakness
 Junior dev constantly learning
+
 Argentinian
+
 15yo
 
 ## skills
