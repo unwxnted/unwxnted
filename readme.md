@@ -8,8 +8,11 @@ Argentinian
 ## skills
 html, css, js, nodeJS, mysql, socketIO, python, c and c++
 
+## github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unwxnted&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## contact me
 
 Discord: weakness#0054
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unwxnted&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
