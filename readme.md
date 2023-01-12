@@ -17,7 +17,8 @@ Bye, and thanks for viewing my profile
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=unwxnted&show_icons=true&theme=tokyonight)
+
 
 ## Contact Me
 
