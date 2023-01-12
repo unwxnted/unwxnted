@@ -1,4 +1,4 @@
-# Unwxnted/Weakness
+# Unwxnted
 Hi, I am a Argentinian junior developer in constant learning interested in frontend and backend development
 
 I only have a few projects but maybe they could be of interest to you
