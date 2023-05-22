@@ -24,4 +24,4 @@ Bye, and thanks for viewing my profile
 
 Discord: weakness#0054
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=unwxnted.unwxnted)
+![](https://komarev.com/ghpvc/?username=unwxnted)
