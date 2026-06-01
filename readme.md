@@ -1,11 +1,11 @@
 # Unwxnted
-Hi, I am a Argentinian junior developer in constant learning interested in frontend and backend development
+Hi, I'm an Argentinian developer constantly learning, interested in frontend and backend development.
 
-I only have a few projects but maybe they could be of interest to you
+I work as a backend software engineer and frequently work with cloud services and infrastructure.
 
-Bye, and thanks for viewing my profile
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -13,15 +13,13 @@ Bye, and thanks for viewing my profile
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Google Cloud](https://img.shields.io/badge/-Google-Cloud?style=flat-square&logo=GoogleCloud)
+![Vercel](https://img.shields.io/badge/-Vercel?style=flat-square&logo=Vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=unwxnted&show_icons=true&theme=tokyonight)
-
-
 ## Contact Me
 
-Discord: weakness#0054
+Discord: wknss
 
 ![](https://komarev.com/ghpvc/?username=unwxnted)
